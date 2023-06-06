@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/contact-mgmt/static/css/main.22583522.css",
+    "main.js": "/contact-mgmt/static/js/main.2ee897e2.js",
+    "static/js/787.cf6a4479.chunk.js": "/contact-mgmt/static/js/787.cf6a4479.chunk.js",
+    "static/media/contact.png": "/contact-mgmt/static/media/contact.f5fbee97231f0b1442d8.png",
+    "static/media/left-arrow.png": "/contact-mgmt/static/media/left-arrow.60d90daa56ef2bc0db35.png",
+    "static/media/Hamburger_icon.svg.png": "/contact-mgmt/static/media/Hamburger_icon.svg.4f34b9eef6282eb91cd5.png",
+    "static/media/maps.png": "/contact-mgmt/static/media/maps.2475cb08f474df0d1cd0.png",
+    "index.html": "/contact-mgmt/index.html",
+    "main.22583522.css.map": "/contact-mgmt/static/css/main.22583522.css.map",
+    "main.2ee897e2.js.map": "/contact-mgmt/static/js/main.2ee897e2.js.map",
+    "787.cf6a4479.chunk.js.map": "/contact-mgmt/static/js/787.cf6a4479.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22583522.css",
+    "static/js/main.2ee897e2.js"
+  ]
+}
